@@ -10,8 +10,8 @@
 
 # Schedule
 
-9.00 - Welcome and Introductory remarks
-9.30 - Keynote 1
+- 9.00 - Welcome and Introductory remarks //
+- 9.30 - Keynote 1
 10.00 - Q&A Keynote 1
 10.30 - Invited Talk 1
 10.45 - Q&A Invited Talk 1
