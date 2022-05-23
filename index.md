@@ -1,6 +1,6 @@
 ![multiomics](MicrosoftTeams-image.png)
-## Workshop at the 36th Conference on Neural Information Processing Systems
-## Friday, December 9, 2021
+# Workshop at the 36th Conference on Neural Information Processing Systems
+# Friday, December 9, 2021
 
 # About
 
