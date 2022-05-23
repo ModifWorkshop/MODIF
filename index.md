@@ -2,6 +2,8 @@
 ### Workshop at the 36th Conference on Neural Information Processing Systems
 ### Friday, December 9, 2021
 
+![multiomics](Picture4_0.jpg)
+
 You can use the [editor on GitHub](https://github.com/ModifWorkshop/modif/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
