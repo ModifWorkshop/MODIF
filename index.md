@@ -4,6 +4,11 @@
 
 # About
 
+Omics data (genomics, transcriptomics, proteomic, metabolomics, etc) is high dimensional and rich in information, but extracting and integrating biologically relevant signals is a task complicated by the multiplicity of parallel, redundant and degenerate overlapping biological processes taking place at any given time. The lack of well developed methodologies addressing this challenge is a strong limiting factor for biological knowledge discovery and patient treatment. 
+
+The aim of this workshop will therefore be to explore and propose innovative solutions to the technical challenges inherent to the signal extraction and integration of high dimensional, scarce and complex biological data, as well as propose a guideline for researchers in the field. We aim to foster a collaborative, multi-disciplinary approach, combining expertise across disciplines by bringing together researchers from a wide range of backgrounds and approaches, to discuss and debate on the challenges, problems and the solutions to address them. 
+
+
 # Call for Posters
 
 # Invited Speakers
