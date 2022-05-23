@@ -2,7 +2,7 @@
 ### Workshop at the 36th Conference on Neural Information Processing Systems
 ### Friday, December 9, 2021
 
-![multiomics](Picture4_0.jpg)
+![multiomics](MicrosoftTeams-image.png)
 
 You can use the [editor on GitHub](https://github.com/ModifWorkshop/modif/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
