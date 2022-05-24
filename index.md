@@ -42,7 +42,23 @@ Early Career Researcher to be given precedence in the selection process.
 
 
 # Organising Committee
-Sara Masarone, Amaya Gallagher-Syed, Omnia Alwazzan
+
+Sara Masarone
+Sara Masarone is a PhD student at The Alan Turing Institute and Queen Mary University of London. Her work focuses on the use of data-driven methods and Machine Learning to understand the hyperacute window of trauma patients. Recently, she has worked on biomarkers identification as well as Representation Learning as a method to harmonise different datasets to improve data quality.
+
+Website: https://saramasarone.github.io 
+Contacts: smasarone@turing.ac.uk, s.masarone@qmul.ac.uk  
+Affiliation: The Alan Turing Institute and Queen Mary University of London
+
+
+Amaya Gallagher- Syed
+Amaya is a Wellcome Trust PhD based at Queen Mary University of London. Her work focuses on multi-omic data integration, histopathology imaging and deep learning fusion models applied to autoimmune diseases. She is particularly interested in techniques extracting low dimensional embeddings of high dimensional data. 
+ 
+Contacts: a.r.syed@qmul.ac.uk 
+Affiliation: Queen Mary University of London
+
+Omnia Alwazzan
+
 
 # Programme Committee
 
