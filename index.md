@@ -33,9 +33,9 @@ Early Career Researcher to be given precedence in the selection process.
 - 14.45 - Invited Talk 3 
 - 15.00 - Q&A Invited Talk 3
 - 15.15 - Coffee Break
-- **15.30 - Problem solving session (3 problems addressed for 45min each - submitted by attendees in months before workshop - chosen through voting by attendees and/or Committee members)**
+- **15.30 - Problem solving session** (3 problems addressed for 45min each - submitted by attendees in months before workshop - chosen through voting by attendees and/or Committee members)
 - 17.00 - Coffee Break
-- **17.10 - Best Poster Presentation (10 min presentation + 10 min Q&A)**
+- **17.10 - Best Poster Presentation** (10 min presentation + 10 min Q&A)
 - 17.30 - Runner-up Poster Presentation (10 min presentation + 10 min Q&A)
 - **17.50 - Closing Remarks** 
 - **18.00 – 19.30 - Poster Presentations (ECR given precedence in selection process to attract novel ideas/WI**
