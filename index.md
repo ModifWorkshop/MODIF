@@ -48,8 +48,6 @@ Early Career Researcher to be given precedence in the selection process.
 - **17.50 - Closing Remarks** 
 - **18.00 – 19.30 - Poster Presentations (ECR given precedence in selection process to attract novel ideas/WI**
 
-# Invited Speakers
-
 # Organising Committee
 
 **Sara Masarone** 
@@ -63,7 +61,7 @@ Affiliation: The Alan Turing Institute and Queen Mary University of London
 
 **Amaya Gallagher- Syed** 
 
-Amaya is a Wellcome Trust PhD based at Queen Mary University of London. Her work focuses on multi-omic data integration, histopathology imaging and deep learning fusion models applied to autoimmune diseases. She is particularly interested in techniques extracting low dimensional embeddings of high dimensional data. 
+Amaya is a Wellcome Trust PhD student based at Queen Mary University of London. Her work focuses on multi-omic data integration, histopathology imaging and deep learning fusion models applied to autoimmune diseases. She is particularly interested in techniques extracting low dimensional embeddings of high dimensional data. 
  
 Contacts: a.r.syed@qmul.ac.uk \
 Affiliation: Queen Mary University of London 
