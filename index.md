@@ -40,6 +40,7 @@ Early Career Researcher to be given precedence in the selection process.
 - **17.50 - Closing Remarks** 
 - **18.00 – 19.30 - Poster Presentations (ECR given precedence in selection process to attract novel ideas/WI**
 
+# Invited Speakers
 
 # Organising Committee
 
@@ -63,6 +64,17 @@ Affiliation: Queen Mary University of London
 
 
 # Programme Committee
+
+- Olivier Gevaert
+- Mireia Crispin Ortuzar
+- Elsa Angelini
+- Greg Slabaugh
+- Andrew Holding
+- Alejandro Frangi
+- Harlin Lee
+- Reza Khorshidi
+- Christopher Yau
+- Faisal Mhammood
 
 
 ### Support or Contact
