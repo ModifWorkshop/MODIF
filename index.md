@@ -8,6 +8,14 @@ Omics data (genomics, transcriptomics, proteomic, metabolomics, etc) is high dim
 
 The aim of this workshop will therefore be to explore and propose innovative solutions to the technical challenges inherent to the signal extraction and integration of high dimensional, scarce and complex biological data, as well as propose a guideline for researchers in the field. We aim to foster a collaborative, multi-disciplinary approach, combining expertise across disciplines by bringing together researchers from a wide range of backgrounds and approaches, to discuss and debate on the challenges, problems and the solutions to address them. 
 
+# Topics
+
+- Processing multi-omics data – techniques and challenges (e.g., data scarcity, dimensionality reduction, signal extraction, etc.).
+- Omics data fusion – dealing with different data types and their integration, such as imaging/video, and omics.
+- Innovative machine learning methods applied to multi-omics data – supervised, semi-supervised and unsupervised approaches.
+- Graph-based methods applied to multi-omics data   – multiplex networks, low dimensional embeddings, etc. 
+- Knowledge discovery – understanding and discovering underlying biological processes and treatment targets through multi-omics data.
+- Translation to the clinic – moving from research to application, how should patient stratification tools best be used in clinical practice
 
 # Call for Posters
 
