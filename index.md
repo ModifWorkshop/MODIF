@@ -23,6 +23,10 @@ Early Career Researcher to be given precedence in the selection process.
 
 # Invited Speakers
 
+- Olivier Gevaert
+- Mireia Crispin Ortuzar
+- Richard J. Chen
+
 # Schedule
 
 - 09.00 - Welcome and Introductory remarks
