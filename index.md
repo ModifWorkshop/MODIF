@@ -70,8 +70,6 @@ Amaya is a Wellcome Trust PhD student based at Queen Mary University of London. 
 Contacts: a.r.syed@qmul.ac.uk \
 Affiliation: Queen Mary University of London 
 
-**Omnia Alwazzan**
-
 
 # Programme Committee
 
