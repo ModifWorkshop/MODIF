@@ -19,7 +19,7 @@ The aim of this workshop will therefore be to explore and propose innovative sol
 
 # Call for Posters
 
-Early Career Researcher to be given precedence in the selection process. 
+Early Career Researcher
 
 # Invited Speakers
 
