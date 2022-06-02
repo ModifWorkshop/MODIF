@@ -58,7 +58,7 @@ Early Career Researcher to be given precedence in the selection process.
 
 Sara Masarone is a PhD student at The Alan Turing Institute and Queen Mary University of London. Her work focuses on the use of data-driven methods and Machine Learning to understand the hyperacute window of trauma patients. Recently, she has worked on biomarkers identification as well as Representation Learning as a method to harmonise different datasets to improve data quality. 
 
-Website: https://saramasarone.github.io \
+Website: [https://saramasarone.github.io](https://saramasarone.github.io) \
 Contacts: smasarone@turing.ac.uk, s.masarone@qmul.ac.uk \
 Affiliation: The Alan Turing Institute and Queen Mary University of London
 
